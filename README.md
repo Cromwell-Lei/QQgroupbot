@@ -1,0 +1,2 @@
+# QQgroupbot
+基于nonebot2的小QQ群bot，功能是每天零点对全天群聊内容进行总结。部署必要的包在requirement里有列出
